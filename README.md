@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Bryankaveen/Bryankaveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a developper working in France. I'm a high school student at Notre Dame des Oiseaux. I mainly program games, 
 
-Here are some ideas to get you started:
+##### ACTUALLY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔎 Looking for collaborators for bigger projects;
+- 🏆 Competing in hackathons;
+- 🤖 Learning ML & deep learning;
+- 📈 Learning blockchain development
+
+##### BIOGRAPHY
+
+- ✨ I'm currently working on an ecoledirecte API with my school friends
+- ⚙️ I daily use: `.8xp`, `.js`, `.html`, `.css`, `.svg`
+- 💅 Developped: [qreate.store](https://square-programming.github.io/Pokemon-83-Premium)
+- 🌱 Craving to learn & meet new people
+- 💬 Ping me about **development**, **hackathons**
+- 📫 Reach me: **Bryan THIRIMANNA#0709** on discord
+
+##### LANGUAGES
+- French (native)
+- English (fluent)
+- Sinhalese (native)
+- German
+
