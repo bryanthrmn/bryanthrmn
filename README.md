@@ -1,26 +1,25 @@
 ### Hi there 👋
 
-#### I'm a developper working in France. I'm a high school student at Notre Dame des Oiseaux. I mainly program games, 
+#### I'm a developper working in France. I'm a high school student at Notre Dame des Oiseaux.
+[![Bryan THIRIMANNA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryankaveen&theme=dark&show_icons=true&layout=compact&title_color=75a6fc&icon_color=75a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### ACTUALLY
 
 - 🔎 Looking for collaborators for bigger projects;
-- 🏆 Competing in hackathons;
-- 🤖 Learning ML & deep learning;
-- 📈 Learning blockchain development
+- 🏆 Competing in Brawl Stars, my favorite game;
+- 🤖 Learning new programming languages
 
 ##### BIOGRAPHY
 
 - ✨ I'm currently working on an ecoledirecte API with my school friends
 - ⚙️ I daily use: `.8xp`, `.js`, `.html`, `.css`, `.svg`
-- 💅 Developped: [qreate.store](https://square-programming.github.io/Pokemon-83-Premium)
-- 🌱 Craving to learn & meet new people
-- 💬 Ping me about **development**, **hackathons**
+- 💅 Developped: [Pokémon 83 Premium](https://square-programming.github.io/Pokemon-83-Premium)
+- 🌱 Learn & meet new people
 - 📫 Reach me: **Bryan THIRIMANNA#0709** on discord
 
 ##### LANGUAGES
-- French (native)
-- English (fluent)
-- Sinhalese (native)
-- German
+- French (45%); at school, with my school friends, well you know, I live in France.
+- English (40%); at home, with my family members, with my collaborators (some of them speak in English, so... no choices).
+- Sinhalese (10%); that's my native language, but I don't use it everyday. My parents did force me to speak in Sinhalese, but I was not fan of it. Thus, I don't really know how to speak my native language fluently. Fortunatly, we do speak in English in Sri Lanka :)
+- German (5%); in german class.
 
