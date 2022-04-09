@@ -12,7 +12,7 @@
 ##### BIOGRAPHY
 
 - ✨ I'm currently working on an ecoledirecte API with my school friends
-- ⚙️ I daily use: `.8xp`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I daily use: `.8xp`, `.c`,`.h`,`.asm`,`.gif`, `.html`, `.css`, `.svg`
 - 💅 Developped: [Pokémon 83 Premium](https://square-programming.github.io/Pokemon-83-Premium)
 - 🌱 Learn & meet new people
 - 📫 Reach me: **Bryan THIRIMANNA#0709** on discord
