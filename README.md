@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a developper working in France. I'm a high school student at Notre Dame des Oiseaux.
+#### I'm a developper working in France. I'm a 2nd year student at EPF - Engineering School.
 [![Bryan THIRIMANNA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryankaveen&theme=dark&show_icons=true&layout=compact&title_color=75a6fc&icon_color=75a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### ACTUALLY
@@ -11,7 +11,7 @@
 
 ##### BIOGRAPHY
 
-- ✨ I'm currently working on an ecoledirecte API with my school friends
+- ✨ I'm currently working on an online webpage
 - ⚙️ I daily use: `.8xp`, `.c`,`.h`,`.asm`,`.gif`, `.html`, `.css`, `.svg`
 - 💅 Developped: [Pokémon 83 Premium](https://square-programming.github.io/Pokemon-83-Premium)
 - 🌱 Learn & meet new people
